@@ -1,0 +1,8 @@
+{
+  "name": "js-scel",
+  "version": "0.1.0",
+  "description": "Sogou Cell Dict .scel file parser.",
+  "main": "SCEL.js",
+  "author": "BuffayBu <buffaybu@gmail.com>",
+  "license": "MIT"
+}
