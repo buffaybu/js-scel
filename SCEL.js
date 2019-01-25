@@ -105,7 +105,7 @@ class SCEL {
       type: extract(0x338, 0x554),
       description: extract(0x540, 0xd40),
       example: extract(0xd40, 0x1540),
-      words: toWords(buf.slice(0x2628), library.pinyinTable)
+      words: toWords(buf.slice(0x2628), pinyinTable)
     }
   }
 
